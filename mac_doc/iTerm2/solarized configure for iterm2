@@ -1,0 +1,18 @@
+solarized for iterm2
+http://ethanschoonover.com/solarized
+
+Full Git Repository:
+
+The full git repository is at: https://github.com/altercation/solarized Get it using the following command:
+
+  ~  git clone git://github.com/altercation/solarized.git
+Cloning into 'solarized'...
+remote: Counting objects: 2186, done.
+remote: Total 2186 (delta 0), reused 0 (delta 0), pack-reused 2186
+Receiving objects: 100% (2186/2186), 33.75 MiB | 313.00 KiB/s, done.
+Resolving deltas: 100% (721/721), done.
+Checking connectivity... done.
+➜  ~
+$ git clone git://github.com/altercation/solarized.git
+
+
