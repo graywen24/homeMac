@@ -1,0 +1,16 @@
+set nocompatible
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Bundle 'gmarik/vundle'  
+Plugin 'gmarik/Vundle.vim' 
+
+filetype plugin indent on
+
+
+" Some settings to enable the theme
+"set number        " Show line numbers
+syntax enable     " Use syntax highlighting
+set background=light
+
